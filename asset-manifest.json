@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SagarWarfade18/static/css/main.bf538fe7.css",
+    "main.js": "/SagarWarfade18/static/js/main.1f6fa711.js",
+    "static/media/NGPUI.png": "/SagarWarfade18/static/media/NGPUI.0417f375ab2f85afe344.png",
+    "static/media/HeroImage.jpg": "/SagarWarfade18/static/media/HeroImage.beccb0ad8d938f1e1b98.jpg",
+    "index.html": "/SagarWarfade18/index.html",
+    "main.bf538fe7.css.map": "/SagarWarfade18/static/css/main.bf538fe7.css.map",
+    "main.1f6fa711.js.map": "/SagarWarfade18/static/js/main.1f6fa711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1f6fa711.js"
+  ]
+}
