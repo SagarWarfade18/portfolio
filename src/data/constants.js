@@ -219,6 +219,7 @@ export const education = [
     img: "",
     school: "Model Junior College, Arvi",
     date: "Apr 2017 - Apr 2018",
+    grade: "A",
     desc: "I completed my class 12 high school education at Model Junior College, Arvi",
     degree: "HSC(XII)",
   },
