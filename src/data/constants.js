@@ -85,7 +85,7 @@ export const skills = [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX7oXZxS1xELdF5uAIDUpuyqEhPPpTQSlL2w&s",
       },
       {
-        name: "Jekins",
+        name: "Jenkins",
         image:
           "https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg",
       },
@@ -95,7 +95,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png",
       },
       {
-        name: "Terrafrom",
+        name: "Terraform",
         image:
           "https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png",
       },
