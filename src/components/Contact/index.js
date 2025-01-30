@@ -125,10 +125,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        'service_qhahbp6', // Replace with your EmailJS Service ID
-        'template_yezqx4k', // Replace with your EmailJS Template ID
+        'service_l6k3jeb', // Replace with your EmailJS Service ID
+        'template_99pnprq', // Replace with your EmailJS Template ID
         form.current,
-        'hT018wuNSpOp-F-V2' // Replace with your EmailJS Public Key
+        'vZ3_ka82Vba-JUH5O' // Replace with your EmailJS Public Key
       )
       .then(
         (result) => {

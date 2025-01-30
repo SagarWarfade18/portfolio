@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Sagar Warfade</Logo>
+        <Logo>Vidhi Chopade</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -97,12 +97,12 @@ function Footer() {
           <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
+          {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Sagar Warfade. All rights reserved.
+          &copy; 2024 Vidhi Chopade. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
