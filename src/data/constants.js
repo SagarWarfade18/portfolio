@@ -271,3 +271,20 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
+
+export const dataimages = [
+  { image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSVMLJAybwkPi2a8EjrNSjQySErCvnOH1Kg&s', name: 'Testimonials 1' },
+  { image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmJ3ymPIMejOylqT8jBFrSZW2IHopkXctTg&s', name: 'Testimonials 2' },
+  { image: 'https://static9.depositphotos.com/1000276/1100/i/450/depositphotos_11008977-Mountain-landscape.jpg', name: 'Testimonials 3' },
+
+];
+
+
+export const links = [
+  { text: "I was just content to see my daughter in such a stable relationship but a grandchild, that really was the icing on the cake.", url: "https://example.com/problem-solving" },
+  { text: "Innovative Thinking", url: "https://example.com/innovative-thinking" },
+  { text: "Critical Analysis", url: "https://example.com/critical-analysis" },
+  { text: "Strategic Decision Making", url: "https://example.com/strategic-decisions" },
+  { text: "Out-of-the-Box Ideas", url: "https://example.com/out-of-the-box" },
+];
